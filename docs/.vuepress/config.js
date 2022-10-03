@@ -9,20 +9,41 @@ module.exports = {
     plugins: [
         ['@vuepress/back-to-top'],
     ],
-    title: 'Go中文学习文档',
-    description: '这是一个Golang学习的个人文档站',
+    title: 'AchievementDoc',
+    description: 'BDS llse plugins Achievement',
     head: [
         [
             'link',
-            {rel: 'icon', href: 'logo.png'}
+            {rel: 'icon', href: 'Achievement.svg'}
         ]
     ],
     themeConfig: {
+        sidebarDepth: 2,
         enableDarkMode: true,
         lastUpdated: '最后更新于', // string | boolean
         nav: [
-            {text: 'Github', link: 'https://github.com/CQUT-Programmer/QuickVuePress'}
+            {text: 'Home', link: '/'},
+            {text: '指南', link: '/guide'},
+            {text: 'Q&A', link: '/question'},
+            {text: 'Github', link: 'https://github.com/246859/Achievement.git'}
         ],
-        sidebar: []
+        sidebar: generateSideGroup(root, [
+            {
+                title: "配置教程",
+                path: "/view/config/"
+            },
+            {
+                title: "自定义教程",
+                path: "/view/diy/"
+            },
+            {
+                title: "API导出",
+                path: "/view/api/"
+            },
+            {
+                title: "词条百科",
+                path: "/view/entry/"
+            }
+        ])
     }
 }
