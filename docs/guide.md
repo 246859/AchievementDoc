@@ -40,7 +40,7 @@ Github：[Releases · 246859/Achievement (github.com)](https://github.com/246859
 
 ::: tip
 
-Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本没有可读性可言。
+Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本没有可读性可言，附上压缩网址:[jsmin在线js压缩工具](http://tools.jb51.net/code/jsmincompress)
 
 如果有阅读源代码的需求，可以下载GitHub版本。
 
@@ -65,4 +65,3 @@ Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本�
 19:01:47 INFO [Achievement] 当前语言为: zh_CN
 19:01:47 INFO [Achievement] 成就插件成功加载,总计12种成就类型,145个成就词条,19个事件监听
 ```
-
