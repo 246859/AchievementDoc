@@ -42,6 +42,10 @@ A：去<a href="https://www.minebbs.com/threads/9594/">minebbs插件讨论区反
 
 
 
+## Q：想要修改文档?
+
+A：[246859/AchievementDoc: Achievement plugins doc (github.com)](https://github.com/246859/AchievementDoc)，修改完成后发pr。
+
 ## Q：可不可以定制功能？
 
 A：不会接任何有关插件定制的私活，对于作者而言插件仅仅只是休闲放松的消遣。

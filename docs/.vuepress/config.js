@@ -25,7 +25,8 @@ module.exports = {
             {text: 'Home', link: '/'},
             {text: '指南', link: '/guide'},
             {text: 'Q&A', link: '/question'},
-            {text: 'Github', link: 'https://github.com/246859/Achievement.git'}
+            {text: 'Github', link: 'https://github.com/246859/Achievement.git'},
+            {text: '编辑页面', link: 'https://github.com/246859/AchievementDoc'}
         ],
         sidebar: generateSideGroup(root, [
             {

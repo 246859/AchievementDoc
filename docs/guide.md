@@ -48,9 +48,9 @@ Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本�
 
 ## 使用
 
-将安装得到的`Zip`文件解压至`./plugins`目录下，点击`bedrock_server_mod.exe`启动LLBDS服务端，在控制台中看到如下提示即代表插件成功加载。
+将安装得到的`Zip`文件解压至`./plugins`目录下，点击`bedrock_server_mod.exe`启动LLBDS服务端，在控制台中看到如下提示内容即代表插件成功加载。
 
-```
+```powershell
               _     _                                     _          ___    ___   ___
     /\       | |   (_)                                   | |        |__ \  / _ \ / _ \
    /  \   ___| |__  _  _____   _____ _ __ ___   ___ _ __ | |_  __   __ ) || | | | | | |
@@ -62,14 +62,6 @@ Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本�
 19:01:47 INFO [Achievement] MineBBS: https://www.minebbs.com/resources/3434/
 19:01:47 INFO [Achievement] Github: https://github.com/246859/Achievement
 19:01:47 INFO [LiteLoader] Js 插件 <Achievement> 已加载。
-19:01:47 INFO [Achievement] [DEBUG] 插件配置文件创建完成
-19:01:47 INFO [Achievement] [DEBUG] 玩家数据文件创建完成
-19:01:47 INFO [Achievement] [DEBUG] 语言文件创建完成
-19:01:47 INFO [Achievement] [DEBUG] 语言文件信息更新完毕
-19:01:47 INFO [Achievement] [DEBUG] 配置文件信息更新完毕
-19:01:47 INFO [Achievement] [DEBUG] 插件运行时配置加载完毕
-19:01:47 INFO [Achievement] [DEBUG] 插件运行时玩家数据加载完毕
-19:01:47 INFO [Achievement] [DEBUG] 插件运行时语言加载完毕
 19:01:47 INFO [Achievement] 当前语言为: zh_CN
 19:01:47 INFO [Achievement] 成就插件成功加载,总计12种成就类型,145个成就词条,19个事件监听
 ```
