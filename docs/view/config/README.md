@@ -17,6 +17,8 @@ plugins
     |
     |---Config.json 插件配置文件
     |
+    |---Cache.json 插件缓存文件
+    |
     |---Data.json 插件数据文件
     |
     |---Lang 插件语言目录
