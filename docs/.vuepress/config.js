@@ -18,7 +18,6 @@ module.exports = {
         ]
     ],
     themeConfig: {
-        sidebarDepth: 2,
         enableDarkMode: true,
         lastUpdated: '最后更新于', // string | boolean
         nav: [
