@@ -3,6 +3,7 @@ const root = './docs';
 
 module.exports = {
     theme: "vt",
+    base:'/AchievementDocs/',
     markdown: {
         lineNumbers: true
     },
