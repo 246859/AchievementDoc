@@ -26,7 +26,13 @@ module.exports = {
             {text: '指南', link: '/guide'},
             {text: 'Q&A', link: '/question'},
             {text: 'Github', link: 'https://github.com/246859/Achievement.git'},
-            {text: '编辑页面', link: 'https://github.com/246859/AchievementDoc'}
+            {text: '编辑', link: 'https://github.com/246859/AchievementDoc'},
+            {
+                text: '站点', items: [
+                    {text: '国外', link: 'https://246859.github.io/AchievementDocs/'},
+                    {text: '国内', link: 'https://float1024.gitee.io/achievementdocs/'}
+                ]
+            },
         ],
         sidebar: generateSideGroup(root, [
             {
