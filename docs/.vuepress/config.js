@@ -37,19 +37,19 @@ module.exports = {
         ],
         sidebar: generateSideGroup(root, [
             {
-                title: "配置教程",
+                title: "配置教程⚙️",
                 path: "/view/config/"
             },
             {
-                title: "自定义教程",
+                title: "自定义教程🗜️",
                 path: "/view/diy/"
             },
             {
-                title: "API导出",
+                title: "API导出🔌",
                 path: "/view/api/"
             },
             {
-                title: "词条百科",
+                title: "词条百科📚",
                 path: "/view/entry/"
             }
         ])
