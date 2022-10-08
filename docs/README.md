@@ -4,6 +4,7 @@ heroImage: Achievement.svg
 heroText: Achievement.js文档
 tagline: 一个词条丰富，功能完善的BDSLL端成就插件，目前已有成就150+种
 actionText: 快速开始
+sidebar: 'false'
 actionLink: /guide
 features: 
 
