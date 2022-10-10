@@ -66,11 +66,11 @@ Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本�
  / ____ \ (__| | | | |  __/\ V /  __/ | | | | |  __/ | | | |_   \ V // /_ | |_| | |_| |
 /_/    \_\___|_| |_|_|\___| \_/ \___|_| |_| |_|\___|_| |_|\__|   \_/|____(_)___(_)___/    By Stranger
 
-19:01:47 INFO [Achievement] v2.0.0
-19:01:47 INFO [Achievement] MineBBS: https://www.minebbs.com/resources/3434/
-19:01:47 INFO [Achievement] Github: https://github.com/246859/Achievement
-19:01:47 INFO [LiteLoader] Js 插件 <Achievement> 已加载。
-19:01:47 INFO [Achievement] 当前语言为: zh_CN
-19:01:47 INFO [Achievement] 成就插件成功加载,总计12种成就类型,145个成就词条,19个事件监听
+18:41:58 INFO [Achievement] v2.0.0
+18:41:58 INFO [Achievement] MineBBS: https://www.minebbs.com/resources/3434/
+18:41:58 INFO [Achievement] Github: https://github.com/246859/Achievement
+18:41:58 INFO [LiteLoader] Js 插件 <Achievement> 已加载。
+18:41:58 INFO [Achievement] 当前语言为: zh_CN
+18:41:58 INFO [Achievement] 成就插件成功加载,总计14种成就类型,188个成就词条,22个事件监听
 ```
 
