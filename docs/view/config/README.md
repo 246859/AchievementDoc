@@ -15,7 +15,7 @@ plugins
 |
 |---Achievement 插件目录
     |
-    |---Config.json 插件配置文件
+    |---Config.json 插件配置文件 
     |
     |---Cache.json 插件缓存文件
     |
@@ -41,7 +41,7 @@ plugins
 
 ::: danger
 
-`config.json`与`Menu.json`请谨慎修改，`Data.json`**绝对不允许修改**，若要修改`Entry.json`，请移步[自定义教程](../diy/README.md)
+`config.json`与`Menu.json`请谨慎修改，`Data.json`，`Cache.json`**绝对不允许修改**，若要修改`Entry.json`，请移步[自定义教程](../diy/README.md)
 
 :::
 

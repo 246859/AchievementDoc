@@ -2,7 +2,7 @@
 home: true
 heroImage: Achievement.svg
 heroText: Achievement.js文档
-tagline: 一个词条丰富，功能完善的BDSLL端成就插件，目前已有成就180+种
+tagline: 一个词条丰富，功能完善，高度自定义的BDSLL端成就插件。
 actionText: 快速开始
 sidebar: 'false'
 actionLink: /guide
