@@ -6,15 +6,15 @@
 
 :::
 
-**当前版本`2.0.0`默认词库中，成就类型`14`种，成就词条`164`个。**
+**目前最新版本`2.0.0`默认词库中，成就类型`14`种，成就词条`164`个。**
 
 
 
 ## 前言
 
-在词条百科中可以查询到最新的词条，成就相关的信息都会有标注，当然由于插件的高度自定义化，如果你想将自己的词条加入默认词条同时分享到词条百科中，你可以前往[246859/AchievementDoc: Achievement plugins doc (github.com)](https://github.com/246859/AchievementDoc)。
+在词条百科中可以查询到最新的词条，成就相关的信息都会有标注，当然由于插件的高度自定义化，如果你想将自己的词条加入默认词条同时分享到词条百科中，你可以前往[246859/AchievementDoc: Achievement plugins doc (github.com)](https://github.com/246859/AchievementDoc)，fork到自己仓库，修改完成后发pr。如果你不会github，又想添加自己的内容，可以在Minebbs中将词条文件私信发给作者，有时间的话就会加上去。
 
-词条百科中所有的页面是采用`art-template`模板引擎自动生成，并非人工编写，如有需要可以访问[246859/AutoEntry: generate entry md file by json (github.com)](https://github.com/246859/AutoEntry)。
+词条百科中所有的页面是采用`art-template`模板引擎自动生成，并非人工编写，真要手写的话得累死人，如有需要可以访问[246859/AutoEntry: generate entry md file by json (github.com)](https://github.com/246859/AutoEntry)。
 
 
 
