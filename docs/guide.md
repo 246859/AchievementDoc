@@ -64,13 +64,13 @@ Minebbs版本经过了JS压缩，没有任何注释，没有格式化，基本�
    /  \   ___| |__  _  _____   _____ _ __ ___   ___ _ __ | |_  __   __ ) || | | | | | |
   / /\ \ / __| '_ \| |/ _ \ \ / / _ \ '_ ` _ \ / _ \ '_ \| __| \ \ / // / | | | | | | |
  / ____ \ (__| | | | |  __/\ V /  __/ | | | | |  __/ | | | |_   \ V // /_ | |_| | |_| |
-/_/    \_\___|_| |_|_|\___| \_/ \___|_| |_| |_|\___|_| |_|\__|   \_/|____(_)___(_)___/    By Stranger
+/_/    \_\___|_| |_|_|\___| \_/ \___|_| |_| |_|\___|_| |_|\__|   \_/|____(_)___(_)___/
 
-18:41:58 INFO [Achievement] v2.0.0
-18:41:58 INFO [Achievement] MineBBS: https://www.minebbs.com/resources/3434/
-18:41:58 INFO [Achievement] Github: https://github.com/246859/Achievement
-18:41:58 INFO [LiteLoader] Js 插件 <Achievement> 已加载。
-18:41:58 INFO [Achievement] 当前语言为: zh_CN
-18:41:58 INFO [Achievement] 成就插件成功加载,总计14种成就类型,188个成就词条,22个事件监听
+12:00:12 INFO [Achievement] v2.0.0
+12:00:12 INFO [Achievement] MineBBS: https://www.minebbs.com/resources/3434/
+12:00:12 INFO [Achievement] Github: https://github.com/246859/Achievement
+12:00:12 INFO [LiteLoader] Js 插件 <Achievement> 已加载。
+12:00:12 INFO [Achievement] 当前语言为: zh_CN
+12:00:12 INFO [Achievement] 成就插件成功加载,总计14种成就类型,164个成就词条,22个事件监听。
 ```
 
