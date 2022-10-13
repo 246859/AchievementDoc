@@ -15,8 +15,6 @@ plugins
 |
 |---Achievement.Gui.js 表单插件
 |
-|---Achievement.Cmd.js 指令插件
-|
 |---Achievement 插件目录
     |
     |---Config.json 插件配置文件 
@@ -26,16 +24,27 @@ plugins
     |---Data.json 插件数据文件
     |
     |---Lang 插件语言目录
-        |
-        |---zh_CN 中文
-        |   |
-        |   |---Entry.json 词条文件
-        |   
-        |
-        |---en_us 英文
-            |
-            |---Entry.json
-
+    |    |
+    |    |---zh_CN 中文
+    |    |   |
+    |    |   |---Entry.json 词条文件
+    |    |   
+    |    |
+    |    |---en_us 英文
+    |        |
+    |        |---Entry.json
+    |
+	|---Menu 菜单文件目录
+	|    |
+	|    |---zh_CN 中文
+    |    |   |
+    |    |   |---Menu.json 菜单文件
+    |    |   
+    |    |
+    |    |---en_us 英文
+    |        |
+    |        |---Menu.json
+	
 ```
 
 
@@ -43,12 +52,22 @@ plugins
 **简单说明**
 
 - `Achievement.Core.js`：核心插件，所有成就相关的数据处理与核心功能都由此插件进行。
+
 - `Achievement.Gui.js`：表单插件，方便玩家在游戏内插件实时查看成就的插件，提供了可视化界面。
+
 - `Achievement.Cmd.js`：指令插件，提供了一系列方便操作成就的指令。
+
 - `Config.json`：主要的配置文件，设计到插件的基本使用。
+
 - `Cache.json`：缓存文件，没有什么特殊的需求不建议修改，除非你知道自己在做什么。
+
 - `Data.json`：数据文件，存储玩家成就数据，**禁止做任何改动**。
+
 - `Entry.json`：词条文件，存储成就词条，可以根据需求自行改动。
+
+    插件在加载词条时，**会扫描某一语言目录下的全部json文件**，如果符合规范，就会加载。所有的默认词条都存储在`Entry.json`中
+
+- `Menu.json`：菜单文件，存储菜单信息，不同的是菜单文件只加载`Menu.json`，不会扫描文件路径。
 
 
 
