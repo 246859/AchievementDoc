@@ -597,7 +597,7 @@
 
 - 触发值：`minecraft:sheep`
 - 词条：`谁会杀害温顺又可爱的绵羊呢？`
-- 条件：`首次击杀绵阳`
+- 条件：`首次击杀绵羊`
 - 默认开启：`true`
 - json：
 
@@ -606,7 +606,7 @@
 	"minecraft:sheep": {
 		"enable": true,
 		"msg": "谁会杀害温顺又可爱的绵羊呢？",
-		"condition": "首次击杀绵阳"
+		"condition": "首次击杀绵羊"
 	}
 }
 ```
